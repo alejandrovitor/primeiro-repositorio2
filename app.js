@@ -1,0 +1,1 @@
+console.log("esse é meu paranauê em javascript!pt")
